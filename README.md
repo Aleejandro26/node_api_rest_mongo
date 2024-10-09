@@ -4,7 +4,7 @@ Este repositorio tiene una API-REST realizada con Node.js y MongoDB la cual nos 
 
 ## ¿Cómo usarlo?
 
-1.  Clonar el repositorio haciendo  `git clone https://github.com/sergiecode/node_api_rest_mongo`
+1.  Clonar el repositorio haciendo  `https://github.com/Aleejandro26/node_api_rest_mongo`
 2.  Abrir el proyecto en su editor de código
 3.  Instalar de los paquetes y módulos requeridos:  `npm install`
 4.  Agregar las variables de entorno que correspondan usando como plantilla  `.env.template`
