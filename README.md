@@ -13,6 +13,6 @@ Este repositorio tiene una API-REST realizada con Node.js y MongoDB la cual nos 
 
 ## Requiere:
 
--   **NODE**: Se debe instalar NODE en el sistema operativo
--   **DOCKER**: Para poder levantar la imágen de Mongo en el contenedor
--   **GIT**: Debe tener Instalado GIT
+-   **NODE**: Se debe instalar NODE en el sistema operativo.
+-   **DOCKER**: Para poder levantar la imágen de Mongo en el contenedor.
+-   **GIT**: Debe tener Instalado GIT.
